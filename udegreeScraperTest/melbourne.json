@@ -8,20 +8,20 @@
     "requirements": ["NURS90070", "NURS90120", "NURS90059", "HLTH90002"]
 },
 {
-    "name": "Orchestral Performance Practicum 1",
-    "title": "MUSI90221",
-    "desc": "Students will undertake this subject as a practical work integrated learning experience with a professional orchestra.",
-    "points": "6.25",
-    "stage": "9",
-    "requirements": []
-},
-{
     "name": "Nursing of Chronic Health Conditions",
     "title": "NURS90158",
     "desc": "The subject aims to help students develop knowledge, skill and application within the context of nursing care provided to clients/patients experiencing chronic and complex health problems. Students will develop their capabilities in client/patient assessment, data collection, nursing problem identification and evidence-based application of relevant nursing interventions. Students will also build on their pre-existing capabilities in interprofessional experiences with medicine and allied health to deliver safe, effective, evidence-based collaborative care.",
     "points": "12.5",
     "stage": "9",
     "requirements": ["NURS90155"]
+},
+{
+    "name": "Orchestral Performance Practicum 1",
+    "title": "MUSI90221",
+    "desc": "Students will undertake this subject as a practical work integrated learning experience with a professional orchestra.",
+    "points": "6.25",
+    "stage": "9",
+    "requirements": []
 },
 {
     "name": "Clinical Elective",
@@ -40,10 +40,10 @@
     "requirements": ["BUSA90480", "BUSA90481", "BUSA90060", "BUSA90224", "BUSA90243", "BUSA90093", "BUSA90193", "BUSA90001", "BUSA90227", "BUSA90074", "BUSA90026", "BUSA90482", "BUSA90483", "BUSA90026", "BUSA90227"]
 },
 {
-    "name": "Societal Implications of Genomics",
-    "title": "POPH90226",
-    "desc": "This subject will examine the ethical, legal and social implications (ELSI) of genetics and genomics. It will be organised into 3 overarching topics:",
-    "points": "12.5",
+    "name": "Special Needs Dentistry 1",
+    "title": "DENT90105",
+    "desc": "This subject provides the basis for the study of special needs dentistry (SND) including the link between general and oral health. Learning is achieved through a combination of journal clubs (1 hour per/week) and didactic sessions (including case report and seminar presentations) together with clinical placements. The subject focuses on etiology of disease (including oral disease), social determinants of health and functioning, treatment planning, conscious sedation, and government policy and consent. In addition students learn about management of patients under differing clinical scenarios including outpatient clinics, theatre and domicillary services. Students present cases they have treated themselves and engage in discussions with students from other cohorts who manage more complex cases in order to begin to understand the complexities of the discipline.",
+    "points": "75",
     "stage": "9",
     "requirements": []
 },
@@ -56,12 +56,12 @@
     "requirements": []
 },
 {
-    "name": "Seminars in Translational Medicine",
-    "title": "MEDI40004",
-    "desc": "The course comprises a series of advanced lectures, delivered in research seminar format, and accompanied by ancillary literature. Each lecture focuses on an area of clinical translational research on a major human disease or a research approach (from epidemiology and public heath through to molecular medicine).",
-    "points": "12.5",
-    "stage": "4",
-    "requirements": ["BIOM40001", "BIOL40010"]
+    "name": "Orchestral Performance Practicum 2",
+    "title": "MUSI90227",
+    "desc": "Students will undertake this subject as a practical work integrated learning experience with a professional orchestra.",
+    "points": "6.25",
+    "stage": "9",
+    "requirements": []
 },
 {
     "name": "Surgical Oncology Nursing",
@@ -72,18 +72,18 @@
     "requirements": ["NURS90121", "NURS90136"]
 },
 {
-    "name": "Special Needs Dentistry 1",
-    "title": "DENT90105",
-    "desc": "This subject provides the basis for the study of special needs dentistry (SND) including the link between general and oral health. Learning is achieved through a combination of journal clubs (1 hour per/week) and didactic sessions (including case report and seminar presentations) together with clinical placements. The subject focuses on etiology of disease (including oral disease), social determinants of health and functioning, treatment planning, conscious sedation, and government policy and consent. In addition students learn about management of patients under differing clinical scenarios including outpatient clinics, theatre and domicillary services. Students present cases they have treated themselves and engage in discussions with students from other cohorts who manage more complex cases in order to begin to understand the complexities of the discipline.",
-    "points": "75",
-    "stage": "9",
-    "requirements": []
+    "name": "Seminars in Translational Medicine",
+    "title": "MEDI40004",
+    "desc": "The course comprises a series of advanced lectures, delivered in research seminar format, and accompanied by ancillary literature. Each lecture focuses on an area of clinical translational research on a major human disease or a research approach (from epidemiology and public heath through to molecular medicine).",
+    "points": "12.5",
+    "stage": "4",
+    "requirements": ["BIOM40001", "BIOL40010"]
 },
 {
-    "name": "Orchestral Performance Practicum 2",
-    "title": "MUSI90227",
-    "desc": "Students will undertake this subject as a practical work integrated learning experience with a professional orchestra.",
-    "points": "6.25",
+    "name": "Societal Implications of Genomics",
+    "title": "POPH90226",
+    "desc": "This subject will examine the ethical, legal and social implications (ELSI) of genetics and genomics. It will be organised into 3 overarching topics:",
+    "points": "12.5",
     "stage": "9",
     "requirements": []
 },
@@ -104,9 +104,9 @@
     "requirements": []
 },
 {
-    "name": "Musician's Health",
-    "title": "MUSI90244",
-    "desc": "Professional orchestral musicians work in high-pressure contexts with unique and demanding physical and psychological challenges. This subject provides a detailed understanding of the occupational health and safety risks and responsibilities within the professional orchestral industry. Lectures and tutorials will examine the prevalence and common causes of different medical disorders in this occupational group, and information on how they can be treated, controlled, and/or alleviated.",
+    "name": "Leadership Skills in Action",
+    "title": "DEVT90070",
+    "desc": "Throughout practical, adaptive online simulations, you will have the opportunity to apply your management and leadership skills and work collaboratively to resolve complex challenges and conflicts. Within the context of simulated scenarios, you will build on your reflexive decision-making abilities and demonstrate the capacity to exercise sound judgment under pressure and lead with confidence, while working as part of a team.",
     "points": "12.5",
     "stage": "9",
     "requirements": []
@@ -120,9 +120,9 @@
     "requirements": []
 },
 {
-    "name": "Leadership Skills in Action",
-    "title": "DEVT90070",
-    "desc": "Throughout practical, adaptive online simulations, you will have the opportunity to apply your management and leadership skills and work collaboratively to resolve complex challenges and conflicts. Within the context of simulated scenarios, you will build on your reflexive decision-making abilities and demonstrate the capacity to exercise sound judgment under pressure and lead with confidence, while working as part of a team.",
+    "name": "Satellite Positioning Systems",
+    "title": "GEOM90033",
+    "desc": "In this subject students will learn the theory and applications of Global Navigation Satellite Systems (GNSS), such as the Global Positioning Systems (GPS). The subject focuses on high precision GNSS, their design and fundamental operational characteristics, strengths and weaknesses, error sources and mitigation, measurement and data processing techniques. It is a pre requisite for the subject GEOM90039 Advanced Surveying and Mapping. The subject is of broad relevance to students with an interest in technology or to those specifically wishing to establish a career in engineering, mining or cadastral surveying, but is also relevant to a range of mapping, spatial, land surveying and civil engineering disciplines where the capture and processing of spatial or survey measurements to meet a specific performance specification should be considered.",
     "points": "12.5",
     "stage": "9",
     "requirements": []
@@ -136,9 +136,9 @@
     "requirements": []
 },
 {
-    "name": "Satellite Positioning Systems",
-    "title": "GEOM90033",
-    "desc": "In this subject students will learn the theory and applications of Global Navigation Satellite Systems (GNSS), such as the Global Positioning Systems (GPS). The subject focuses on high precision GNSS, their design and fundamental operational characteristics, strengths and weaknesses, error sources and mitigation, measurement and data processing techniques. It is a pre requisite for the subject GEOM90039 Advanced Surveying and Mapping. The subject is of broad relevance to students with an interest in technology or to those specifically wishing to establish a career in engineering, mining or cadastral surveying, but is also relevant to a range of mapping, spatial, land surveying and civil engineering disciplines where the capture and processing of spatial or survey measurements to meet a specific performance specification should be considered.",
+    "name": "Musician's Health",
+    "title": "MUSI90244",
+    "desc": "Professional orchestral musicians work in high-pressure contexts with unique and demanding physical and psychological challenges. This subject provides a detailed understanding of the occupational health and safety risks and responsibilities within the professional orchestral industry. Lectures and tutorials will examine the prevalence and common causes of different medical disorders in this occupational group, and information on how they can be treated, controlled, and/or alleviated.",
     "points": "12.5",
     "stage": "9",
     "requirements": []
