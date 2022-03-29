@@ -23,6 +23,10 @@ class UniversityOfMelbourneSpider(scrapy.Spider):
           for href in response.xpath('//a[@class="search-result-item__anchor"]/@href'):
              yield response.follow(href, self.parse_dir_contents)
 
+          for href in response.xpath('//a[@rel="next"]/@href'):
+            self.log("NEXT PAGE")
+            yield response.follow(href, self.parse)
+
     def parse_dir_contents(self, response):
             self.log("Starting Scraper")
             newUrl = str(response)[5:-1] + '/eligibility-and-requirements'
