@@ -1,0 +1,161 @@
+[
+{
+    "name": "Independent Study Project",
+    "title": "NURS90026",
+    "desc": "The subject provides opportunities to extend, deepen and apply knowledge, skills and attributes in the context of a research project. This subject enables students to engage in the design and implementation of a research project that demonstrates their advanced theoretical knowledge and critical reflection skills. It provides the opportunity for integration of their prior learning from the course, and demonstration of their advanced nursing practice and research capacity. The subject is designed to facilitate the student\u2019s eligibility for a PhD.",
+    "points": "25",
+    "stage": "9",
+    "requirements": ["NURS90070", "NURS90120", "NURS90059", "HLTH90002"]
+},
+{
+    "name": "Orchestral Performance Practicum 1",
+    "title": "MUSI90221",
+    "desc": "Students will undertake this subject as a practical work integrated learning experience with a professional orchestra.",
+    "points": "6.25",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Nursing of Chronic Health Conditions",
+    "title": "NURS90158",
+    "desc": "The subject aims to help students develop knowledge, skill and application within the context of nursing care provided to clients/patients experiencing chronic and complex health problems. Students will develop their capabilities in client/patient assessment, data collection, nursing problem identification and evidence-based application of relevant nursing interventions. Students will also build on their pre-existing capabilities in interprofessional experiences with medicine and allied health to deliver safe, effective, evidence-based collaborative care.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": ["NURS90155"]
+},
+{
+    "name": "Clinical Elective",
+    "title": "MEDS90027",
+    "desc": "The aim of this voluntary elective is to offer a student an opportunity to explore an unfamiliar area or setting of clinical medicine to broaden their understanding of health care. Students undertaking an elective will be encouraged to complete it in an area outside their previous experience, and in a location other than their home clinical school.",
+    "points": "0",
+    "stage": "9",
+    "requirements": ["MEDS90001 2022", "MEDS90002 2022"]
+},
+{
+    "name": "Societal Implications of Genomics",
+    "title": "POPH90226",
+    "desc": "This subject will examine the ethical, legal and social implications (ELSI) of genetics and genomics. It will be organised into 3 overarching topics:",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Game Theory for Business Strategy",
+    "title": "BUSA90491",
+    "desc": "Managers make decisions day in, day out. These decisions affect others both within the firm, such as other divisions and subordinates, etc., as well competitors, customers, regulators, and even capital markets. Moreover, the outcome of these decisions depends on the decisions of others. Therefore, anticipating the reaction of others is essential for making the best decision and reaching a successful outcome. This course introduces basic tools to analyze such choices: concepts of individual decision-making and of strategic interaction (game theory). A combination of these tools will lead students to approach managerial problems critically and analytically. As a result, students will be able to think strategically in complex, interactive environments.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": ["BUSA90480", "BUSA90481", "BUSA90060", "BUSA90224", "BUSA90243", "BUSA90093", "BUSA90193", "BUSA90001", "BUSA90227", "BUSA90074", "BUSA90026", "BUSA90482", "BUSA90483", "BUSA90026", "BUSA90227"]
+},
+{
+    "name": "Seminars in Translational Medicine",
+    "title": "MEDI40004",
+    "desc": "The course comprises a series of advanced lectures, delivered in research seminar format, and accompanied by ancillary literature. Each lecture focuses on an area of clinical translational research on a major human disease or a research approach (from epidemiology and public heath through to molecular medicine).",
+    "points": "12.5",
+    "stage": "4",
+    "requirements": ["BIOM40001", "BIOL40010"]
+},
+{
+    "name": "Special Needs Dentistry 1",
+    "title": "DENT90105",
+    "desc": "This subject provides the basis for the study of special needs dentistry (SND) including the link between general and oral health. Learning is achieved through a combination of journal clubs (1 hour per/week) and didactic sessions (including case report and seminar presentations) together with clinical placements. The subject focuses on etiology of disease (including oral disease), social determinants of health and functioning, treatment planning, conscious sedation, and government policy and consent. In addition students learn about management of patients under differing clinical scenarios including outpatient clinics, theatre and domicillary services. Students present cases they have treated themselves and engage in discussions with students from other cohorts who manage more complex cases in order to begin to understand the complexities of the discipline.",
+    "points": "75",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Orchestral Performance Practicum 2",
+    "title": "MUSI90227",
+    "desc": "Students will undertake this subject as a practical work integrated learning experience with a professional orchestra.",
+    "points": "6.25",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Intro. to Mathematical Psychology 3",
+    "title": "PSYC30011",
+    "desc": "This subject introduces mathematical modelling of psychological phenomena. It reviews the role of quantification in the development of psychology and provides a broad overview of contemporary mathematical approaches to the representation of psychological phenomena. In addition, the modelling of a number of specific psychological phenomena is examined in depth. In-depth topics will be selected from psychophysics; the foundations of psychological measurement; models for response times; models for memory and attentional processes; judgement and decision-making models; models for motor control; computational models for cognitive processes; psychological scaling and latent variable models; and mathematical models for social and organisational processes.",
+    "points": "12.5",
+    "stage": "3",
+    "requirements": []
+},
+{
+    "name": "Haematology Nursing 1",
+    "title": "NURS90139",
+    "desc": "This subject will provide students with the scientific basis for cancer and haematology cancer care. In this subject, students will explore and discuss the biology, presentation, diagnosis and treatment of haematologic malignancies in specialist cancer nursing care to prepare and support and assess people affected with these cancers. Students will examine different supportive care needs of people affected by haematologic malignancies, different interdisciplinary approaches and the skills analyse and critique best practice treatment strategies in the management of people affected by haematologic malignancies.",
+    "points": "6.25",
+    "stage": "9",
+    "requirements": ["NURS90121", "NURS90136"]
+},
+{
+    "name": "Surgical Oncology Nursing",
+    "title": "NURS90146",
+    "desc": "This subject will provide students with the scientific basis underpinning specialist surgical oncology nursing. In this subject, students will explore current and emerging surgical interventions, across the disease trajectory, for specific cancer diagnoses and populations. This subject provides nurses with specialist surgical oncology knowledge in relation to the assessment, care and support of people affected by cancer. Students will learn and advocate for the best practice treatment strategies in the prevention, detection and management of surgical oncology complications. Students will also explore specific supportive care needs of people affected by cancer who are treated with surgery and appreciate the importance of evidence-based interdisciplinary interventions to meet these needs.",
+    "points": "6.25",
+    "stage": "9",
+    "requirements": ["NURS90121", "NURS90136"]
+},
+{
+    "name": "Psychotherapy Essentials",
+    "title": "NURS90141",
+    "desc": "Psychotherapy Essentials is designed to strengthen students\u2019 mental health practice and complement existing clinical skills. This online subject incorporates consumer scholarship, psychodynamic concepts and introduces students to the common factors across psychotherapies from humanistic traditions. Psychotherapy Essentials equips students with a comprehensive, coherent and contemporary set of psychotherapy skills to support consumers personal recovery journeys. These skills are explored through topics integral to contemporary mental health, such as: trauma-informed care, recovery-alliance, attachment and neuroplasticity.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Chemistry Honours Research Project Pt1",
+    "title": "CHEM40010",
+    "desc": "The research project is involves undertaking experimental and/or theoretical research in an area currently relevant to one of the research groups in the School of Chemistry. The subject will enable students to develop the process and practice of chemical research; increase the student's knowledge and understanding of chemical science; encourage the development of individual investigative skills, critical thought and the ability to evaluate information and to analyse experimental data; and ensure that students receive essential training in laboratory safety procedures.",
+    "points": "25",
+    "stage": "4",
+    "requirements": []
+},
+{
+    "name": "Optimal Performance Under Pressure",
+    "title": "MUSI90223",
+    "desc": "This subject focuses on the factors that facilitate optimal performance of individuals in orchestral auditions and stressful performance situations. Underpinned by theoretical frameworks, research findings and using real-world examples, this subject will engage students in practical strategies commonly used to achieve optimal performance.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Satellite Positioning Systems",
+    "title": "GEOM90033",
+    "desc": "In this subject students will learn the theory and applications of Global Navigation Satellite Systems (GNSS), such as the Global Positioning Systems (GPS). The subject focuses on high precision GNSS, their design and fundamental operational characteristics, strengths and weaknesses, error sources and mitigation, measurement and data processing techniques. It is a pre requisite for the subject GEOM90039 Advanced Surveying and Mapping. The subject is of broad relevance to students with an interest in technology or to those specifically wishing to establish a career in engineering, mining or cadastral surveying, but is also relevant to a range of mapping, spatial, land surveying and civil engineering disciplines where the capture and processing of spatial or survey measurements to meet a specific performance specification should be considered.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Leadership Skills in Action",
+    "title": "DEVT90070",
+    "desc": "Throughout practical, adaptive online simulations, you will have the opportunity to apply your management and leadership skills and work collaboratively to resolve complex challenges and conflicts. Within the context of simulated scenarios, you will build on your reflexive decision-making abilities and demonstrate the capacity to exercise sound judgment under pressure and lead with confidence, while working as part of a team.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Professional Psychology Skills 2",
+    "title": "PSYC90114",
+    "desc": "This subject is integral to the newly proposed Master of Professional Psychology course because it provides content and skill-based learning that is required for the course to be accredited by the Australian Psychology Accreditation Council, which in turn will contribute towards students being able to become registered practicing psychologists upon completion of the course. In this subject, students will receive training in conducting mental state examinations, risk assessment and intervention, principles of telehealth delivery and fundamentals of Acceptance and Commitment Therapy. The subject will include opportunities for students to practice newly acquired skills through role-plays and simulated client interactions.",
+    "points": "18.75",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Musician's Health",
+    "title": "MUSI90244",
+    "desc": "Professional orchestral musicians work in high-pressure contexts with unique and demanding physical and psychological challenges. This subject provides a detailed understanding of the occupational health and safety risks and responsibilities within the professional orchestral industry. Lectures and tutorials will examine the prevalence and common causes of different medical disorders in this occupational group, and information on how they can be treated, controlled, and/or alleviated.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": []
+},
+{
+    "name": "Design Realisation and Collaboration A",
+    "title": "FLTV90004",
+    "desc": "In this subject students participate in a series of practical workshops developing skills in collaboration and design realisation. Developing collaborative skills through group projects will form a key part of this subject. Collaborators may include other designers, directors, animators, choreographers and cinematographers. Practical workshops will introduce students to a variety of technical skills needed for the realisation of their designs.",
+    "points": "12.5",
+    "stage": "9",
+    "requirements": []
+}]
