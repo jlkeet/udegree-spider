@@ -6,7 +6,7 @@ from dateutil.parser import parse
 from datetime import timedelta
 
 
-class QuotesSpider(scrapy.Spider):
+class UniversityOfMelbourneSpider(scrapy.Spider):
     name = "Melbourne"
     course_data = {}
 
