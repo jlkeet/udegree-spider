@@ -1,0 +1,558 @@
+[
+    {
+        "name": "Intro. to Mathematical Psychology 3",
+        "title": "PSYC30011",
+        "department": "Psychology",
+        "desc": "This subject introduces mathematical modelling of psychological phenomena. It reviews the role of quantification in the development of psychology and provides a broad overview of contemporary mathematical approaches to the representation of psychological phenomena. In addition, the modelling of a number of specific psychological phenomena is examined in depth. In-depth topics will be selected from psychophysics; the foundations of psychological measurement; models for response times; models for memory and attentional processes; judgement and decision-making models; models for motor control; computational models for cognitive processes; psychological scaling and latent variable models; and mathematical models for social and organisational processes.",
+        "points": "12.5",
+        "stage": "3",
+        "requirements": []
+    },
+    {
+        "name": "Design Realisation and Collaboration A",
+        "title": "FLTV90004",
+        "department": "Film and Television",
+        "desc": "In this subject students participate in a series of practical workshops developing skills in collaboration and design realisation. Developing collaborative skills through group projects will form a key part of this subject. Collaborators may include other designers, directors, animators, choreographers and cinematographers. Practical workshops will introduce students to a variety of technical skills needed for the realisation of their designs.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Chemistry Honours Research Project Pt1",
+        "title": "CHEM40010",
+        "department": "Chemistry",
+        "desc": "The research project is involves undertaking experimental and/or theoretical research in an area currently relevant to one of the research groups in the School of Chemistry. The subject will enable students to develop the process and practice of chemical research; increase the student's knowledge and understanding of chemical science; encourage the development of individual investigative skills, critical thought and the ability to evaluate information and to analyse experimental data; and ensure that students receive essential training in laboratory safety procedures.",
+        "points": "25",
+        "stage": "4",
+        "requirements": []
+    },
+    {
+        "name": "Independent Study Project",
+        "title": "NURS90026",
+        "department": "Nursing Science",
+        "desc": "The subject provides opportunities to extend, deepen and apply knowledge, skills and attributes in the context of a research project. This subject enables students to engage in the design and implementation of a research project that demonstrates their advanced theoretical knowledge and critical reflection skills. It provides the opportunity for integration of their prior learning from the course, and demonstration of their advanced nursing practice and research capacity. The subject is designed to facilitate the student\u2019s eligibility for a PhD.",
+        "points": "25",
+        "stage": "9",
+        "requirements": ["NURS90070", "NURS90120", "NURS90059", "HLTH90002"]
+    },
+    {
+        "name": "Quantitative Analysis of Finance II",
+        "title": "ECON90010",
+        "department": "Economics",
+        "desc": "The subject will focus on estimating and testing nonlinear models in finance including volatility models, artificial neural networks, factor models of contagion and discrete models of financial behaviour. Special attention will be given to applications in option markets (implied volatility and smiles), bond markets (level effects) and credit markets (default risk). Estimation and testing methods are based on maximum likelihood and generalised method of moments. The computer software used throughout the course is E-Views.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["ECON90033", "ECOM90011"]
+    },
+    {
+        "name": "Disputes and Ethics",
+        "title": "LAWS90140",
+        "department": "Law",
+        "desc": "This subject introduces students to the theory and practice of civil dispute resolution and professional legal ethics. Students will develop a critical understanding of the operation of three key dispute resolution processes, namely, negotiation, mediation and litigation. Students will gain an appreciation of the role of lawyers in the resolution of legal disputes, in terms of the professional skills, ethical responsibilities and legal obligations involved, including an understanding of duties to the client and to the administration of justice. Through their experiences in a simulated civil dispute, and engagement with relevant doctrinal, socio-legal and jurisprudential literature, students will be required to reflect deeply on the processes and outcomes of civil disputes.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["LAWS50023", "LAWS50024", "LAWS50025", "LAWS50026"]
+    },
+    {
+        "name": "Studio Studies 5",
+        "title": "FINA30001",
+        "department": "Fine Art",
+        "desc": "Building on Studio Studies 4, the expectation is that students have established an independent studio program and begun to consolidate and resolve the aesthetic, conceptual and practical developments in their work. Consideration and preparation for the end of year Graduate Exhibition and the Honours Year is emphasised.",
+        "points": "37.5",
+        "stage": "3",
+        "requirements": ["FINA20030", "FINA30028"]
+    },
+    {
+        "name": "Introduction to Offender Management",
+        "title": "CRIM90022",
+        "department": "Criminology",
+        "desc": "This subject is designed to provide an introduction to issues about sexual and violent offending pathways, risk, and the effective management of offenders in a correctional or justice setting.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Research Project",
+        "title": "PSYC40010",
+        "department": "Psychology",
+        "desc": "This subject runs over two semesters (25 credit points per semester). There are no scheduled classes for this subject. Instead students meet regularly with their supervisor and undertake a research project to obtain experience in all aspects of conducting and reporting an empirical research project. The thesis project will be submitted as two documents. The first comprises a draft introduction to the research report submitted as a hurdle requirement for formative feedback from the supervisor at the beginning of Semester 2. The second comprises a 9000 word research report submitted at the end of Semester 2, worth 100% of the marks for the subject.",
+        "points": "50",
+        "stage": "4",
+        "requirements": []
+    },
+    {
+        "name": "Clinical Elective",
+        "title": "MEDS90027",
+        "department": "Medicine / Surgery",
+        "desc": "The aim of this voluntary elective is to offer a student an opportunity to explore an unfamiliar area or setting of clinical medicine to broaden their understanding of health care. Students undertaking an elective will be encouraged to complete it in an area outside their previous experience, and in a location other than their home clinical school.",
+        "points": "0",
+        "stage": "9",
+        "requirements": ["MEDS90001 2022", "MEDS90002 2022"]
+    },
+    {
+        "name": "Arts Management Thesis Part 2",
+        "title": "AMGT90028",
+        "department": "Arts Management",
+        "desc": "Refer to AMGT90027 Arts Management Thesis Part 1 for details",
+        "points": "18.75",
+        "stage": "9",
+        "requirements": ["AMGT90027", "AMGT90019 2022"]
+    },
+    {
+        "name": "Oral Health Sci Research Proj Part 2",
+        "title": "DENT40011",
+        "department": "Dentistry",
+        "desc": "Please refer to Part 1 - ",
+        "points": "37.5",
+        "stage": "4",
+        "requirements": ["DENT40010"]
+    },
+    {
+        "name": "Orchestral Experience 4",
+        "title": "MUSI90226",
+        "department": "Music",
+        "desc": "Students will be placed in University of Melbourne Symphonic Ensembles for intensive training in all aspects pertaining to performing in a large ensemble setting.",
+        "points": "18.75",
+        "stage": "9",
+        "requirements": ["MUSI90224"]
+    },
+    {
+        "name": "Professional Psychology Skills 2",
+        "title": "PSYC90114",
+        "department": "Psychology",
+        "desc": "This subject is integral to the newly proposed Master of Professional Psychology course because it provides content and skill-based learning that is required for the course to be accredited by the Australian Psychology Accreditation Council, which in turn will contribute towards students being able to become registered practicing psychologists upon completion of the course. In this subject, students will receive training in conducting mental state examinations, risk assessment and intervention, principles of telehealth delivery and fundamentals of Acceptance and Commitment Therapy. The subject will include opportunities for students to practice newly acquired skills through role-plays and simulated client interactions.",
+        "points": "18.75",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Intro to Dental Medicine and Surgery",
+        "title": "DENT90126",
+        "department": "Dentistry",
+        "desc": "Students will learn about the links between oral and systemic health as well as systemic health and disease more generally. Components will include: General Pathology for Dental Practice; Therapeutics for Dental Practice; Principles of Medicine in Dental Practice.",
+        "points": "6.25",
+        "stage": "9",
+        "requirements": ["DENT90062", "DENT90064", "DENT90065", "DENT90066", "DENT90064"]
+    },
+    {
+        "name": "Critical Analysis of Pathology Research",
+        "title": "PATH40002",
+        "department": "Pathology",
+        "desc": "The Honours program in the Department of Pathology provides an introduction to the challenging area of investigation of disease processes at the cellular and molecular level. In this subject, advanced scientific lectures will be provided by experienced researchers discussing current scientific methods and their application to the study of pathological diseases. These lectures provide a foundation for critical analysis tasks which are consolidated during tutorials which assist students in reading and understanding scientific research articles. Students will be taught key learning objectives including, the application of scientific methods, how to write manuscript titles and abstracts, and in the art of critical analysis of scientific papers. The course is composed of 12 lectures and up to 8 tutorials. The lectures and tutorials are held during first semester.",
+        "points": "12.5",
+        "stage": "4",
+        "requirements": ["BIOM40001", "PATH40001", "PATH30004"]
+    },
+    {
+        "name": "Design Projects 1",
+        "title": "THTR70014",
+        "department": "Theatre Studies",
+        "desc": "In this subject students undertake one or more negotiated projects aimed at further developing their knowledge, skills and understanding of designing for live performance. The project(s) will require students to develop design concepts that creatively meet a complex set of demands that may include designing within the constraints of budget, time, OHS and minimisation of environmental impact.",
+        "points": "50",
+        "stage": "7",
+        "requirements": ["THTR90007"]
+    },
+    {
+        "name": "Graduate Chamber Music 1",
+        "title": "MUSI90249",
+        "department": "Music",
+        "desc": "Graduate Chamber Music involves elite graduate students from the music performance cohort forming, rehearsing and performing with instrumental groupings of 3 to 8 instrumentalists.",
+        "points": "6.25",
+        "stage": "9",
+        "requirements": ["MUSI90217", "MUSI90220"]
+    },
+    {
+        "name": "Evidence in Practice",
+        "title": "NURS90120",
+        "department": "Nursing Science",
+        "desc": "This subject is designed to meet the needs of nurses and other clinically-based healthcare professionals seeking further education in identifying and critically appraising research as evidence to inform their clinical practice. The subject aims to facilitate the development of knowledge and skills that will allow students to incorporate reliable and trustworthy evidence into their clinical decision making.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Critical Care Nursing Practice",
+        "title": "NURS90099",
+        "department": "Nursing Science",
+        "desc": "In this subject, students will clinically apply the theoretical principles from this subject and subjects, Applied Pathophysiology, Foundations of Critical Care Nursing and Critical Care Nursing. Students will demonstrate the ability to undertake and support comprehensive patient assessment, monitoring and evaluation and care planning in specialty nursing practice. Students will learn to incorporate and apply scientific knowledge and evidence-based treatment and nursing interventions to support a patient-centred approach to inform their clinical decision making in practice.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["NURS90076", "NURS90122", "NURS90122"]
+    },
+    {
+        "name": "IB DP Advanced",
+        "title": "EDUC90330",
+        "department": "Education",
+        "desc": "Students will explore principles of instructional design and the role of collaborative working practice for learning and teaching in the DP. Additionally students will learn to address the expectations and requirements of specific subject areas.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["EDUC90331", "EDUC90332", "EDUC90333"]
+    },
+    {
+        "name": "Enterprise Architecture Applications",
+        "title": "ISYS90096",
+        "department": "Information Systems",
+        "desc": "This subject introduces the concept of enterprise architecture (EA). The structure of an EA provides the framework by which an organisation can be understood. It introduces the fundamental relationships existing between various components of the EA namely: processes, information, organisational structure and enabling technologies. Consequently, many of the concept domains introduced in this subject are more fully explored in further core and elective subjects.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["ISYS90036"]
+    },
+    {
+        "name": "Physics Research Project Pt 3",
+        "title": "PHYC90047",
+        "department": "Physics",
+        "desc": "This subject is part of a sequence of three or four parts (depending on the research project stream) taken in successive semesters that together constitute the 100-point research project offered through the Master of Science (Physics).",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["PHYC90035"]
+    },
+    {
+        "name": "Minor Research Project",
+        "title": "AGRI90070",
+        "department": "Agriculture",
+        "desc": "This subject enables students to conduct an original research topic under supervision, as approved by an academic project supervisor. The work commitment over one semester will be equivalent to lecture and practical based subjects worth 25 points. The content and extent of the project will be determined by a project supervisor in consultation with the student and subject coordinator. Students are strongly encouraged to initiate project ideas within existing networks or to identify a project topic of keen interest, through discussion with Faculty staff, prior to subject commencement. The project represents a capstone subject and comprises a review of a body of relevant literature, together with a critical evaluation of research or experimental protocols, a modest original experiment, or limited exploration of a scientific problem, or an investigation into a problem using an approved methodology. Following an initial workshop to establish subject expectations, deliverables and skill base requirements, projects will generally involve regular meetings with their supervisor where students report on progress, difficulties and research plans. Other workshops will deliver skill development in oral and written report presentation.",
+        "points": "25",
+        "stage": "9",
+        "requirements": ["AGRI90072", "AGRI90079", "AGRI90080", "AGRI90081", "AGRI90082"]
+    },
+    {
+        "name": "Economics Research Essay Part 2",
+        "title": "ECON40019",
+        "department": "Economics",
+        "desc": "The research essay consists of no more than 10 000 words and no more than 40 A4 pages with text double-spaced (32 pages if 1.5 line spacing is used), inclusive of bibliography, footnotes, tables, charts and appendices. The essay is unsupervised but each student will be allocated an adviser to whom they can address questions. Lectures will be held throughout both semesters. A research proposal will be presented prior to the fifth week of teaching in Semester 1, a progress report will be submitted prior to the last week of teaching in Semester 1 and a seminar delivered. A draft of the essay is to be submitted in the middle of Semester 2 and a seminar presentation made. Other presentations during Semester 2 may also be requested. An electronic copy of the essay and all supporting material are to be submitted via email to the Honours Coordinator by Monday 4pm in the last teaching week of Semester 2.",
+        "points": "12.5",
+        "stage": "4",
+        "requirements": ["ECON40018"]
+    },
+    {
+        "name": "Comparative Corporate Governance",
+        "title": "LAWS70134",
+        "department": "Law",
+        "desc": "This subject considers the different tools used by corporate law to, on the one hand, enable the corporate form to provide an efficient and effective means of generating value and, on the other hand, to regulate the agency problems generated by carrying out business activity through the corporate form. In particular, the subject will consider: the distribution of power within the corporation; directors\u2019 duties and their enforcement; the use and abuse of executive compensation; the role of the market for corporate control in holding directors to account; and minority shareholder protection. The subject takes an explicitly comparative approach, with a primary focus on the United Kingdom and the United States, and to a lesser extent on Germany.",
+        "points": "12.5",
+        "stage": "7",
+        "requirements": []
+    },
+    {
+        "name": "Innovation",
+        "title": "BUSA90218",
+        "department": "Business Administration",
+        "desc": "During the week-long intensive subject, students will be introduced to a number of techniques and concepts covering (1) individual creativity and brainstorming, (2) team creativity, (3) innovation within small and large firms, and (4) linking ideas from the subject to other subjects including strategy, marketing and operations. ",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["BUSA90001", "BUSA90026", "BUSA90060", "BUSA90074", "BUSA90093", "BUSA90193", "BUSA90224", "BUSA90227", "BUSA90243", "BUSA90480", "BUSA90481"]
+    },
+    {
+        "name": "Climate Change and Impacts",
+        "title": "ENST10004",
+        "department": "Environmental Studies",
+        "desc": "This subject introduces the major issues associated with climate change. It endeavours to explain the processes that impact on the Earth\u2019s climate, including the greenhouse effect; the role of climate in the evolution of ecosystems and food production; the human induced changes that are occurring and their impact on the environment; adaptation, mitigation and future climate change strategies will also be explored. The subject will also provide an overview of the economic, legal and political issues associated with climate change.",
+        "points": "12.5",
+        "stage": "1",
+        "requirements": []
+    },
+    {
+        "name": "International Financial Management",
+        "title": "FNCE90016",
+        "department": "Finance",
+        "desc": "Balance of payments analysis, foreign exchange markets and terminology, international financial markets and international banking, international investments and portfolio allocation, measuring and managing foreign exchange exposure, international capital budgeting and counting risk analysis, international corporate financing decisions.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["FNCE90060"]
+    },
+    {
+        "name": "Veterinary Medicine and Surgery A",
+        "title": "VETS90076",
+        "department": "Veterinary Science",
+        "desc": "This subject focuses on clinical veterinary medicine and surgery, both the general principles of veterinary clinical practice and the specific approach to diagnosis, management and prevention of disease in the major domestic animal species. ",
+        "points": "37.5",
+        "stage": "9",
+        "requirements": ["VETS90078", "VETS90080"]
+    },
+    {
+        "name": "Special Study",
+        "title": "MUSI40056",
+        "department": "Music",
+        "desc": "Individual project in a field approved by the Course Coordinator as not otherwise available in the Conservatorium\u2019s regular subject offerings, and for which appropriate supervision is available.",
+        "points": "12.5",
+        "stage": "4",
+        "requirements": []
+    },
+    {
+        "name": "Regulatory Policy and Practice",
+        "title": "LAWS70460",
+        "department": "Law",
+        "desc": "Regulation has become a permanent feature of the way in which contemporary democratic economies, including Australia, are governed. There are few spheres of economic activity that are not subject to some form of regulatory oversight and control. Daily news programs rarely pass without some mention of a significant regulatory decision, proposed regulatory reform or allegations of some regulatory failure or scandal. For lawyers, dealings with regulators and regulatory regimes have become part of the staple diet of their work. Yet the practice of regulation is far from straightforward. Regulatory policy and practice has evolved considerably from its traditional origins in the form of \u2018command and control\u2019, accompanied by the growth of specific terminology and concepts that are likely to be unfamiliar to those other than regulatory technocrats. This subject provides an opportunity for students to develop an understanding of, and critically to evaluate, the basic tools, techniques and decision-making methodologies that are employed in regulatory design and practice. It will be of interest to both private and public sector lawyers who practise in regulated sectors of the economy, enhancing their understanding of how regulators go about the business of regulatory decision-making.",
+        "points": "12.5",
+        "stage": "7",
+        "requirements": []
+    },
+    {
+        "name": "Learning Area B2",
+        "title": "EDUC90998",
+        "department": "Education",
+        "desc": "This subject builds on EDUC90596 Learning Area A1 and EDUC90597 Learning Area B1 by further developing participants\u2019 capacity to extend their repertoire of general subject specific practices and teaching resources and deepen their understanding of curriculum, pedagogy and assessment of their specific teaching areas. This subject focuses on participants\u2019 understanding of differentiation as a tool to cater for diverse learners and to promote student engagement. Participants build their capacity to assess and provide feedback on student learning using a variety of tools. They are encouraged to reflect on and refine their practice and identify strategies that are designed to improve learning outcomes.",
+        "points": "18.75",
+        "stage": "9",
+        "requirements": ["EDUC90596", "EDUC90597", "EDUC90844"]
+    },
+    {
+        "name": "Philosophy Thesis Part 2",
+        "title": "PHIL40022",
+        "department": "Philosophy",
+        "desc": "Refer to ",
+        "points": "18.75",
+        "stage": "4",
+        "requirements": ["PHIL40021"]
+    },
+    {
+        "name": "Topics in Asian Economic History",
+        "title": "ECON30030",
+        "department": "Economics",
+        "desc": "Australia's largest trade partners are largely from Asia, and this subject provides an introduction to the economic history of various Asian economies, such as China and Japan. Using history and economic history textbooks for both countries and a neoclassical growth framework, the subject examines the contours of each country's development through the perspectives of industrialization, imperialism, institutions, and international engagement. Students will become knowledgeable of the evolution of Asian economies and be prepared to engage in discussions of Asian economic and business issues.",
+        "points": "12.5",
+        "stage": "3",
+        "requirements": ["ECON20001", "ECON20002", "ECOM20001", "ECON20003"]
+    },
+    {
+        "name": "International Tax: Principles, Structure",
+        "title": "LAWS70006",
+        "department": "Law",
+        "desc": "This core international tax subject is of central importance given Australia\u2019s ever-growing role in the global economy. This subject covers the fundamental international income tax rules that apply where income or capital gains are derived in circumstances that have a connection with Australia. It considers Australia\u2019s tax jurisdiction of residence and source, and relief from double taxation under domestic law and tax treaties. It also examines measures to prevent tax avoidance, such as controlled foreign company measures and transfer pricing.",
+        "points": "12.5",
+        "stage": "7",
+        "requirements": []
+    },
+    {
+        "name": "Current Issues in International Tax",
+        "title": "LAWS90158",
+        "department": "Law",
+        "desc": "In today\u2019s global, digital era, international tax is vitally important, and the environment is changing rapidly. Tax issues on diverse topics of cross-border work, consumption, deals and investments are important for taxpayers ranging from individuals to multinational corporations. Governments are increasingly cooperating on tax collection and enforcement, but spill overs from unilateral tax changes of some countries may dramatically affect other countries. Meanwhile, tax competition continues. Tax havens are being brought into the global net and anti-abuse rules are strengthened, yet low tax jurisdictions remain significant for international tax policy.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Special Study in Journalism",
+        "title": "JOUR90007",
+        "department": "Journalism",
+        "desc": "This subject involves the study of an approved topic in journalism practice. Details of the program being offered will be available from the Centre for Advanced Journalism. Students who complete this subject successfully should have demonstrated a specialist understanding of the topic, contributed effectively to the work of the seminar, shown a capacity for an advanced level of analysis and familiarised themselves with the latest directions of research into the particular topic.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Terror, Law and War",
+        "title": "CRIM90015",
+        "department": "Criminology",
+        "desc": "This subject considers and compares responses to terrorism. Of particular interest are legal responses, instigations of war, and the implementation of practices of rendition, arbitrary detention and torture. These practices have been argued to contravene due process and the presumption of innocence, and contribute to civil and global unrest, sometimes inspiring criminal action and creating new categories of what it means to be criminal. The subject draws upon the conceptual and analytical tools of criminological and socio-legal examination including analysis of the political, social and legal construction of terror and terrorism. The inspiration for counter terrorism initiatives and conflicting arguments about their necessity will be examined together with the (side) effects they have created.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Counselling Skills",
+        "title": "GENE90003",
+        "department": "Genetics",
+        "desc": " ",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "International Traditions in Journalism",
+        "title": "JOUR90021",
+        "department": "Journalism",
+        "desc": "This subject examines the practice of professional journalism and its traditions across a variety of international contexts. Students will compare and contrast the intellectual and historical traditions behind the development of contemporary journalism practice in places including Australia, Europe, Africa, North and South America, and Asia. They will critically analyse how technological innovations and social transformation have driven changes in the field. Students also will engage with debates regarding the influence of international norms and Anglo-American conceptions of journalism in non-Western contexts, and reflect on the degree to which these entanglements have led to a form of modern global journalism.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Construction, the Community & Neighbours",
+        "title": "LAWS90040",
+        "department": "Law",
+        "desc": "In this subject, students explore the external constraints on construction. These are legal, via the public law of land use planning (sometimes called development control or zoning) and of applicable construction standards; and via the private law rights of those close to the project site. But they are also extra-legal, via community pressures to stop or modify planned development. The subject takes a comparative common law approach, considering a selection of Australian states and territories (including Victoria) and New Zealand, but also England and Wales, whose law remains the origin of the relevant law in Australasia, as well as in Hong Kong, Malaysia, Singapore and most of North America.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["LAWS50026", "LAWS50029", "LAWS50030"]
+    },
+    {
+        "name": "Wireless Communication Systems",
+        "title": "ELEN90007",
+        "department": "Electrical Engineering",
+        "desc": "This subject covers the fundamental design and performance issues associated with the physical and media access control of wireless networks.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["ELEN90051"]
+    },
+    {
+        "name": "Venice Studio",
+        "title": "ABPL90429",
+        "desc": "This 2-week intensive studio subject introduces students to the complexities of the historic city and its architecture in the contemporary age of cultural tourism through research, and the completion of a design project.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Learning Area TESOL 3",
+        "title": "EDUC91178",
+        "department": "Education",
+        "desc": "In this third learning area subject, Teacher Candidates will consolidate their understandings of the theory and practice of teaching, and the Clinical Teaching Model, with particular attention given to the critique of contemporary issues and debates on TESOL within Australia and beyond. Through this subject, Teacher Candidates are supported to become reflective teachers of TESOL with an understanding of relevant and appropriate sources of professional learning for teachers. Teacher Candidates are also supported to become critical, informed members of the school community who are able to reflect on school and education curriculum and policies, as well as the resources and infrastructure available for TESOL education.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["EDUC91148"]
+    },
+    {
+        "name": "Earth Sciences Research Project Pt3",
+        "title": "ERTH90043",
+        "department": "Earth Sciences",
+        "desc": "This subject is part of a sequence of four parts (or five parts for part-time) taken in successive semesters that together constitute the 125-point research project offered through the MSc Earth Sciences.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Forensic Odontology 1",
+        "title": "DENT90039",
+        "department": "Dentistry",
+        "desc": "This subject is taken by students enrolled in the Graduate Diploma in Forensic Odontology.",
+        "points": "25",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Environmental Geology Field Techniques",
+        "title": "GEOL90046",
+        "department": "Geology",
+        "desc": "This module outlines the fundamental theory and techniques of field work in environmental geology. It aims to give students the essential tools for the assessement of environmental hazards associated with mining operations and how to measure their effects.",
+        "points": "6.25",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Philanthropy and Development in the Arts",
+        "title": "AMGT90030",
+        "department": "Arts Management",
+        "desc": "This subject will provide students with an understanding of the role of philanthropy, development activities and fundraising in the cultural not-for-profit sector. The focus is on developing an appreciation of the role of institutional and individual partnerships in this area. Combining an analysis of major philanthropic institutions and international practices relating to private gifts and bequests, the subject canvasses the institutional and personal motivations of benefactors and provides an overview of the various government policies and legal frameworks that facilitate and enable philanthropic activity.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Political Psychology",
+        "title": "POLS30034",
+        "department": "Political Science",
+        "desc": "Why do people vote the way they do? How do elites make decisions when faced with foreign policy crises? Is emotion a positive or negative force in politics? What factors lead to political participation? Why did just about everyone fail to predict the global financial crisis? Political psychology helps answer questions such as these. In exploring such questions this subject will explore the personalities, thought processes, emotions, motivations and political behaviour of citizens and elites. We will trace the early roots of political psychology such as psychobiography. We will also explore the real world applications of political psychology such as how the Obama election campaign mobilised voters using the findings from political psychology, as well as how the Behavioural Insights Team influenced policy-making in Britain.",
+        "points": "12.5",
+        "stage": "3",
+        "requirements": []
+    },
+    {
+        "name": "Tax Policy",
+        "title": "LAWS70319",
+        "department": "Law",
+        "desc": "All governments need robust tax systems capable of funding them. Modern tax systems have also taken on other public policy roles, in income distribution and economic activity, and become integral to governments\u2019 social and economic policies. Tax policy design thus entails a challenging mix of economic, social, legal and administrative policies - all of which has become more complex in a world of increasingly mobile capital and labour.",
+        "points": "12.5",
+        "stage": "7",
+        "requirements": ["LAWS50046"]
+    },
+    {
+        "name": "Current Issues in Negligence",
+        "title": "LAWS70229",
+        "department": "Law",
+        "desc": "Negligence is one of the most heavily litigated causes of action in common law jurisdictions. It is of enormous practical importance in a very wide range of fact situations. It is also a dynamic area of law: the relevant principles are constantly being applied to new fact situations, and the courts are regularly forced to grapple with difficult questions about the scope of negligence liability. This subject examines key current issues and controversies in the law of negligence in the light of theoretical and comparative perspectives. The lecturers have both published widely on private law topics, including a range of issues in the law of negligence.",
+        "points": "12.5",
+        "stage": "7",
+        "requirements": ["LAWS50025"]
+    },
+    {
+        "name": "Property Agency and Marketing (PG)",
+        "title": "ABPL90314",
+        "desc": "This subject aims to give students an understanding of the processes and issues relating to the transfer of freehold and leasehold interests in property with a commercial agency focus within the current legal and market context. The subject will be presented under three main themes:",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Applied Analytics Capstone Part 2",
+        "title": "MGMT90251",
+        "department": "Management",
+        "desc": "Refer to ",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["MGMT90250"]
+    },
+    {
+        "name": "Managing Growth",
+        "title": "MGMT90228",
+        "department": "Management",
+        "desc": "New entrepreneurial ventures, once successfully past the formation stage (incubators and accelerators), often encounter problems caused by their very rapid growth. The activities of the entrepreneur have to change, from innovation to delegation, communication, and organization as different functional and technical skills are needed, new external relationships such as bankers, lawyers and investors are formed and new company employees have to be integrated into the goals and operations of the enterprise. This is a very basic change that many entrepreneurs never make. The purpose of the subject is to recognise that managing growth is the biggest challenge for entrepreneurs, to consider and evaluate the alternative pathways to growth and to consider processes for identifying a preferred approach. The subject identifies methods for assessing customer and market opportunities, the need for revised business models, marketing strategies, the development or acquisition of appropriate skills and resources and the adoption of management control systems that should be used to monitor and analyse growth, with the additional challenge of international growth also considered. Participants in the subject will use case studies and meetings with entrepreneurs to develop a pragmatic understanding of the challenges of growth, as well as the obstacles that need to be overcome. At the conclusion of the subject, students should be able to identify the different pathways to market including commercialisation.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["MGMT90225"]
+    },
+    {
+        "name": "Engaging and Assessing Learners (EC) 3",
+        "title": "EDUC91055",
+        "department": "Education",
+        "desc": "This subject will support Teacher Candidates to make decisions about responding to young children\u2019s learning needs using evidence-informed approaches. Teacher Candidates will explore the science of learning and its relationship to effective, culturally informed teaching and learning strategies. To support young children\u2019s participation, Teacher Candidates will identify and respond to behaviours of concern and the contexts in which they emerge. Teacher Candidates will understand the historical and contextual factors in which language and communication are embedded and develop strategies to support the language and communication needs of young children. The processes that underpin the successful development of literacy and numeracy will be explored, including identifying the literacy and numeracy needs of young children and how to intervene using young children\u2019s strengths and capabilities. The Clinical Teaching Model will be used to assess, plan and develop interventions for young children with disability and diverse learning needs. Teacher Candidates will examine the importance of parent/carer involvement in education and how to work effectively with colleagues, other professionals and the community.  This subject will also support Teacher Candidates\u2019 explorations of classroom communication and management practices and strategies that support young children\u2019s wellbeing and safety to provide high-quality inclusive learning environments that meet school and/or system, curriculum and legislative requirements. It will equip Teacher Candidates with the fundamental skills necessary to begin to observe, design and implement teaching strategies to engage all young children. This subject references the relevant Australian educational frameworks and curricula.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["EDUC91051"]
+    },
+    {
+        "name": "Mediation in Practice",
+        "title": "LAWS90048",
+        "department": "Law",
+        "desc": "With a primary focus on experiential learning and interactive discussion, this subject will provide a practical guide to the use of mediation in resolving disputes and to the legal environment in which mediation takes place. The objectives of this subject are to identify where mediation sits among available dispute resolution processes; its distinguishing characteristics and advantages; the applicable legal environment; to learn to apply mediation principles and techniques in the resolution of disputes; and to explore topical issues in mediation, including different regimes applicable to the admissibility of evidence of communications within mediation.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["LAWS50024", "LAWS90113", "LAWS90039"]
+    },
+    {
+        "name": "Student Wellbeing: Current Approaches",
+        "title": "EDUC90258",
+        "department": "Education",
+        "desc": "A study of the historical, social and political context within which student wellbeing is understood; and the concepts, theories and evidence-bases directing approaches to promoting wellbeing in school settings.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": ["EDUC90929", "EDUC90930", "EDUC91029", "EDUC91030", "EDUC90830", "EDUC90900", "EDUC90628"]
+    },
+    {
+        "name": "Wildlife Management",
+        "title": "ANSC90001",
+        "department": "Animal Science",
+        "desc": "Wildlife Management has varied goals, addressing issues as diverse as conservation and biodiversity, human-animal conflict, pest animal control, overabundance and potential for disease spill over.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Art of Piano Teaching",
+        "title": "MUSI10016",
+        "department": "Music",
+        "desc": "In this subject, students will learn to develop a sequenced and comprehensive approach to piano teaching that is informed by both a thorough understanding of pedagogical principles as well as a \ufb02exibility that can meet the needs of individual piano students.",
+        "points": "6.25",
+        "stage": "1",
+        "requirements": []
+    },
+    {
+        "name": "Integrated Design Studio",
+        "title": "CVEN90073",
+        "department": "Civil Engineering",
+        "desc": "The Integrated Design Studios focus on the successful union of architecture and engineering in building design. With strong involvement from consultants and clients from industry the studios provide an excellent opportunity to experience how design happens in practice in an environment emulating a design office. Students from both disciplines work together to develop building designs for real clients with a focus on sustainable practices, including zero carbon and renewable energy technologies. You will learn how to view design from both engineering and architectural perspectives and express ideas based in well-grounded, informed critical thinking. The studio includes basic building envelope and energy analysis components and engenders development of integrated design skills and understanding able to be employed in building designs in industry. Each studio uses a building typology specific to the industry client involved as a case study. Sustainable integrated design solutions appropriate to the building typology in question will be researched and developed throughout the studios.",
+        "points": "12.5",
+        "stage": "9",
+        "requirements": []
+    },
+    {
+        "name": "Neuropsychology Placement 2A",
+        "title": "PSYC90079",
+        "department": "Psychology",
+        "desc": "A 48 day external field placement concentrating on neuropsychological services in adult neurology/neurosurgery and adult psychiatry. Placement in each setting will extend over 12 weeks. Students will be expected to commit 2 days per week for a total of 24 weeks. Field placement activities include neuropsychological assessment of referred cases, case formulation and diagnosis, development of management strategies where appropriate, attendance at relevant clinical meetings and ward rounds under the supervision of field neuropsychologists who meet the standards of the Australian Psychological Accreditation Council. In addition students are required to attend, and present cases seen on field placement at a weekly case conference in the Melbourne School of Psychological Sciences over the course of their enrolment in Clinical Neuropsychology Placement 2A. Students are also required to attend 3 clinical workshops (18 hours in total) designed to enhance the development of practical professional-level skills.",
+        "points": "18.75",
+        "stage": "9",
+        "requirements": ["PSYC90003", "PSYC90006", "PSYC90007", "PSYC90029", "PSYC90030", "PSYC90031", "PSYC90032", "PSYC90039", "PSYC90082", "PSYC90083", "PSYC90084"]
+    }
+]
